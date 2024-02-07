@@ -1,0 +1,7 @@
+- Configuração do git
+- Ambiente virtual
+- PyLint
+    - snake_case -> Funções, Variáveis, Métodos
+    - PascalCase -> Classes
+    - rcfile
+- Pre-commit
