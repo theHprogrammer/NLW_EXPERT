@@ -100,7 +100,6 @@ $ git clone git@github.com:theHprogrammer/NLW_EXPERT.git
 - Rocketseat pela oportunidade e pela excelente plataforma de aprendizado.
 
 <br>
----
 
 ## 👨‍💻 Colaboradores
 
